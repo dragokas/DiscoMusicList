@@ -1,0 +1,7 @@
+frmMain = 175, 175, 1300, 669, , 25, 25, 1154, 545, C
+clsOSInfo = 75, 75, 1200, 569, 
+clsProcess = 125, 125, 1250, 619, Z
+modFile = 50, 50, 1175, 544, 
+WriteLog = 100, 100, 1225, 594, 
+modOpenFolder = 180, 180, 1484, 724, 
+modHelper = 0, 0, 0, 0, C

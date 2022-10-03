@@ -1,0 +1,26 @@
+[History]
+1=#P0#=mb	#P1#=AddFile	#P2#=DiscoListTool/frmMain/AddFile	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20180331221511	#P7#=0	#P8#=75	.
+2=#P0#=mb	#P1#=cmdCreateScript_Click	#P2#=DiscoListTool/frmMain/cmdCreateScript_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20180319071618	#P7#=0	#P8#=30	.
+3=#P0#=mb	#P1#=LoadListFromFile	#P2#=DiscoListTool/frmMain/LoadListFromFile	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20180318231638	#P7#=0	#P8#=24	.
+4=#P0#=mb	#P1#=mnuAutorunAddScriptToAutorun_Click	#P2#=DiscoListTool/frmMain/mnuAutorunAddScriptToAutorun_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20180318231241	#P7#=0	#P8#=0	.
+5=#P0#=mb	#P1#=AddFolder	#P2#=DiscoListTool/frmMain/AddFolder	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20180318231123	#P7#=0	#P8#=1	.
+6=#P0#=mb	#P1#=mnuHelpAbout_Click	#P2#=DiscoListTool/frmMain/mnuHelpAbout_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20180306193456	#P7#=0	#P8#=0	.
+7=#P0#=mb	#P1#=CheckFilesPresence	#P2#=DiscoListTool/frmMain/CheckFilesPresence	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20180306193116	#P7#=0	#P8#=-2	.
+8=#P0#=mb	#P1#=AddObjToList	#P2#=DiscoListTool/frmMain/AddObjToList	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20180306193104	#P7#=0	#P8#=8	.
+9=#P0#=mb	#P1#=mnuContextSelAll_Click	#P2#=DiscoListTool/frmMain/mnuContextSelAll_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20180306193103	#P7#=0	#P8#=8	.
+10=#P0#=mb	#P1#=chkDelete_Click	#P2#=DiscoListTool/frmMain/chkDelete_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20180306193046	#P7#=0	#P8#=6	.
+11=#P0#=mb	#P1#=mnuAddFile_Click	#P2#=DiscoListTool/frmMain/mnuAddFile_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20180306193040	#P7#=0	#P8#=-2	.
+12=#P0#=mb	#P1#=lv_MouseDown	#P2#=DiscoListTool/frmMain/lv_MouseDown	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20180306193028	#P7#=0	#P8#=0	.
+13=#P0#=mb	#P1#=cmdUp_Click	#P2#=DiscoListTool/frmMain/cmdUp_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20180306193017	#P7#=0	#P8#=14	.
+14=#P0#=mb	#P1#=Form_Load	#P2#=DiscoListTool/frmMain/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20180306192950	#P7#=0	#P8#=0	.
+15=#P0#=mb	#P1#=cmdCopyFiles_Click	#P2#=DiscoListTool/frmMain/cmdCopyFiles_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20180306192750	#P7#=0	#P8#=10	.
+16=#P0#=mb	#P1#=mnuContextDeleteFile_Click	#P2#=DiscoListTool/frmMain/mnuContextDeleteFile_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20180306192241	#P7#=0	#P8#=0	.
+17=#P0#=mb	#P1#=mnuContextDelete_Click	#P2#=DiscoListTool/frmMain/mnuContextDelete_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20180306192131	#P7#=0	#P8#=-2	.
+18=#P0#=mb	#P1#=mnuContextPlay_Click	#P2#=DiscoListTool/frmMain/mnuContextPlay_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20180306192101	#P7#=0	#P8#=-2	.
+19=#P0#=mb	#P1#=DeleteSelItem	#P2#=DiscoListTool/frmMain/DeleteSelItem	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20180306191917	#P7#=0	#P8#=19	.
+20=#P0#=mb	#P1#=ReEnum	#P2#=DiscoListTool/frmMain/ReEnum	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20180306190503	#P7#=0	#P8#=7	.
+21=#P0#=mb	#P1#=SendFileToRecycleBin	#P2#=DiscoListTool/modFile/SendFileToRecycleBin	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20180306190415	#P7#=0	#P8#=17	.
+22=#P0#=mb	#P1#=mnuListSave_Click	#P2#=DiscoListTool/frmMain/mnuListSave_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20180306185637	#P7#=0	#P8#=7	.
+23=#P0#=mb	#P1#=txtHost_Change	#P2#=DiscoListTool/frmMain/txtHost_Change	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20180306185537	#P7#=0	#P8#=-1	.
+24=#P0#=mb	#P1#=Form_Resize	#P2#=DiscoListTool/frmMain/Form_Resize	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20180306185451	#P7#=0	#P8#=12	.
+25=#P0#=mb	#P1#=SaveControlsPos	#P2#=DiscoListTool/frmMain/SaveControlsPos	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20180306184443	#P7#=0	#P8#=1	.
